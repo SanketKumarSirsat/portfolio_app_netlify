@@ -1,25 +1,25 @@
 {
   "main": {
-    "name": "Abhishek Bhargava",
-    "occupation": "Software engineer",
+    "name": "Sanket Kumar Sirsat",
+    "occupation": "Web Developer",
     "description": "",
-    "image": "profilepic.png",
-    "bio": "Thorough and meticulous Software engineer passionate about helping businesses succeed with a solid understanding and 2+ years of experience in analytics and software development.Leverages comprehensive technical expertise for software engineering, data management, and developing innovative business solutions for corporate customers.  Looking forward to join a progressive organization that will allow me to utilize my previous experience along with incorporating my skills & knowledge.",
+    "image": "profile.jpeg",
+    "bio": "Looking for new challenges in this fast-paced technology world. Capable of working with a variety of technology and software solutions, and managing databases.Looking for a part-time job or an internship opportunity to gain a good amount of experience before stepping into more depth of IT industry.",
     "contactmessage": "Feel free to drop me a message",
-    "email": "119221274@umail.ucc.ie",
-    "phone": "+353-896019721",
+    "email": "sanketbusiness60@gmail.com",
+    "phone": "+91 7568631761",
     "address": {
       "street": "",
-      "city": "(Cork, Ireland)",
-      "state": "(Your State)",
-      "zip": ""
+      "city": "(Greater Noida, Uttar Pradesh)",
+      "state": "(Uttar Pradesh)",
+      "zip": "201310"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://docdro.id/nQWHYiZ",
+    
+    "resumedownload": "https://docdro.id/H3DZkhD",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/abhi4441/",
+        "url": "https://www.linkedin.com/in/sanket-sirsat-371086172/",
         "className": "fa fa-linkedin"
       }
     ]
@@ -28,121 +28,69 @@
     "skillmessage": "",
     "education": [
       {
-        "school": "University College Cork",
-        "degree": "M.Sc in Business Information and Analytical Systems ( Grade 2:1 )",
-        "graduated": "09/2019 - 08/2020,"
+        "school": "Aditya Birla Public School",
+        "degree": "Senior Secondary",
+        "graduated": "04/2016 - 04/2018"
       },
       {
         "school": "Sharda University",
-        "degree": "Bachelors in Computer Science and Engineering ( Grade 2:1 )",
-        "graduated": "09/2013 - 08/2017,"
+        "degree": "Bachelors in Computer Science and Engineering",
+        "graduated": "06/2018 - 06/2022"
       }
     ],
     "work": [
       {
-        "title": "ASSOCIATE SOFTWARE ENGINEER",
-        "company": "TELUS International",
-        "years": "06/2017 - 09/2019,",
-        "description1": "Performed requirements analysis, design, development and test management of monthly 100 M/D releases",
-        "description2": "Conducted research using focus groups on 3 different products and increased sales by 11% due to the findings.",
-        "description3": "Automated ETL process, making it easier to wrangle data and reducing time by as much as 40%."
+        "title": "Tic Tac Toe Game"
+        
+        
+        
       },
       {
-        "title": "Development Intern",
-        "company": "Hewlett Packard Enterprise",
-        "years": "06/2016 - 08/2016,",
-        "description1": "Designed advanced Android applications using Android Studio.",
-        "description2": "Worked in a cross functional environment to design and define new features.",
-        "description3": "Continuously performed unit testing in coordination with the testing team to develop better products with fewer bugs."
+        "title": "Recipe Search App"
+        
+      },
+      {
+        "title": "Todo List App"
       }
+      
+
+      
     ],
     "skills": [
       {
-        "name": "Python",
-        "level": "90%"
+        "name": "React JS",
+        "level": "80%"
       },
       {
-        "name": "Shell Scripting",
+        "name": "Java Script",
         "level": "85%"
       },
       {
-        "name": "R",
-        "level": "60%"
+        "name": "MySql",
+        "level": "100%"
       },
       {
-        "name": "Java",
-        "level": "50%"
+        "name": "HTML",
+        "level": "100%"
       },
       {
-        "name": "AWS",
+        "name": "CSS",
         "level": "80%"
       },
       {
-        "name": "Kubernetes",
-        "level": "60%"
-      },
-      {
-        "name": "Docker",
-        "level": "80%"
-      },
-      {
-        "name": "GIT",
-        "level": "90%"
-      },
-      {
-        "name": "SQL",
+        "name": "Bootstrap",
         "level": "70%"
       },
       {
-        "name": "MySQL",
-        "level": "80%"
+        "name": "API",
+        "level": "50%"
+      },
+      {
+        "name": "GIT",
+        "level": "50%"
       }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
+      
     ]
   }
+  
 }
